@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "News Title 1",
+        "content": "Content for News 1"
+    },
+    {
+        "id": 2,
+        "title": "Article Title 1",
+        "content": "Content for Article 1"
+    }
+]

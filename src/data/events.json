@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Tech Conference",
+      "date": "2023-12-01",
+      "location": "City Center",
+      "description": "Annual tech conference for developers."
+    },
+    {
+      "id": 2,
+      "name": "Product Launch",
+      "date": "2023-11-15",
+      "location": "Company Headquarters",
+      "description": "Launching new products and features."
+    }
+  ]
+  
